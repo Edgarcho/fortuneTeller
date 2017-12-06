@@ -1,3 +1,19 @@
-#responses, #responses1, #responses2{
+#responses{
   display: none;
+}
+.jumbotron{
+  color: #3b5998;
+}
+
+h2{
+  font-size: 50px;
+  text-align: center;
+}
+body{
+  background-color: #777777;
+  text-align: left;
+  color:#dfe3ee;
+}
+.form-group{
+  font-size: 20px;
 }
